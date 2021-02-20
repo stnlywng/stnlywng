@@ -2,13 +2,8 @@
 
 ## I do a lot of Coding, Game Development and 3D Projects!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-<br />
+- 🌱 There is still so much more to learn, hoping to touch on a lot of things!
+- ⚡ Fun fact: I play the Tuba and I make music :)
 
 ### Languages and Tools:
 
@@ -40,7 +35,6 @@
 <p align="center">
   <img src="FinalRenders/JigglyJumpStageOneShocase.gif" width="500" >
 </p>
-Checkout a Short Demo: [Jiggly Jump Short Demo][jigglyjump]!
 
 ---
 
