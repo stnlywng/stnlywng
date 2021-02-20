@@ -60,7 +60,6 @@
 
 ➡️ [more blog posts...](https://codestackr.com)
 
----
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
