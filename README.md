@@ -4,10 +4,6 @@
 
 - 🌱 There is still so much more to learn, hoping to touch on a lot of things!
 - ⚡ Fun fact: I play the Tuba and I make music :)
-- 
-<br />
-<br />
-
 ---
 
 ### 📺 Featured Project
