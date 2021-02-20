@@ -51,10 +51,10 @@
 ### 📕 Some 3D Projects!
 #### These are made entirely by myself!
 <p align="center">
-  <img src="FinalRenders/IndoorHouseScene2.png" width="450" >
-  <img src="FinalRenders/Grass_Field.jpg" width="450" >
-  <img src="FinalRenders/Porsche1.jpg" width="450" >
-  <img src="FinalRenders/RickAndMortyGarage.jpg" width="450" >
+  <img src="FinalRenders/IndoorHouseScene2.png" width="335" >
+  <img src="FinalRenders/Grass_Field.jpg" width="335" >
+  <img src="FinalRenders/Porsche1.jpg" width="335" >
+  <img src="FinalRenders/RickAndMortyGarage.jpg" width="335" >
 </p>
 
 
