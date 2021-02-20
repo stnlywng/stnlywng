@@ -34,7 +34,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Featured Project
 
 <!-- YOUTUBE:START -->
 - [Node.js Crash Course for Beginners Tutorial - Learn Node Basics in 30 Minutes!](https://www.youtube.com/watch?v=2LUdnb-mls0)
@@ -48,7 +48,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Some 3D Projects!
 
 <!-- BLOG-POST-LIST:START -->
 - [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
