@@ -2,7 +2,7 @@
 
 ## I do a lot of Coding, Game Development and 3D Projects!!
 
-- 🌱 There is still so much more to learn, hoping to touch on a lot of things!
+- 🌱 On my way to becoming a quality developer!
 - ⚡ Fun fact: I play the Tuba and I make music :)
 ---
 
