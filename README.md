@@ -8,7 +8,7 @@
 
 ### 📺 Featured Project
 
-#### Jiggly Jump (Inspired by Winter Bells WIP)
+#### Jiggly Jump (Inspired by Winter Bells WIP). All Models (Blender 3D) and Scripts (C#) made by myself!
 <p align="center">
   <img src="FinalRenders/JigglyJumpStageOneShocase.gif" width="500" >
 </p>
