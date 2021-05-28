@@ -1,9 +1,5 @@
 ### Hello! I'm Stanley Wang 👋
 
-## I do a lot of Coding, Game Development and 3D Projects!!
-
-- 🌱 Ayo! I love learning, on my way to be a great developer!
-- ⚡ Fun fact: I play the Tuba and I make music :)
 ---
 
 ### 📺 Featured Project
