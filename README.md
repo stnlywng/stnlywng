@@ -15,7 +15,7 @@
 #### These are made entirely by myself!
 <p align="center">
   <img src="FinalRenders/interior_charity1.png" width="335" >
-  <img src="FinalRenders/interior_charity222.png" width="335" >
+  <img src="FinalRenders/Interior_charity222.png" width="335" >
   <img src="FinalRenders/IndoorHouseScene2.png" width="335" >
   <img src="FinalRenders/Grass_Field.jpg" width="335" >
   <img src="FinalRenders/Porsche1.jpg" width="335" >
