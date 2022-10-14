@@ -4,10 +4,10 @@
 
 ### 📺 Featured Project
 
-#### Jiggly Jump (Inspired by Winter Bells WIP). All Models (Blender 3D) and Scripts (C#) made by myself!
-<p align="center">
-  <img src="FinalRenders/JigglyJumpStageOneShocase.gif" width="500" >
-</p>
+#### GENESIS Ecommerce Website, deployed to Azure App Services
+Click the image to see a video demo! And find the website itself here: https://genesisecommerce.azurewebsites.net/
+
+[![ecommerce_genesis](https://user-images.githubusercontent.com/63517032/195730031-3b2e9eeb-2291-418b-9d24-43d3c2124d0f.PNG)](https://www.youtube.com/watch?v=ejsXkYb4aws "GENESIS Ecommerce demo!")
 
 ---
 
