@@ -1,16 +1,5 @@
 ### Hello! I'm Stanley Wang 👋
 
----
-
-### 📺 Featured Project
-
-#### GENESIS Ecommerce Website, deployed to Azure App Services
-Click the image to see a video demo! And find the website itself here: https://genesisecommerce.azurewebsites.net/
-
-[![ecommerce_genesis](https://user-images.githubusercontent.com/63517032/195730031-3b2e9eeb-2291-418b-9d24-43d3c2124d0f.PNG)](https://www.youtube.com/watch?v=ejsXkYb4aws "GENESIS Ecommerce demo!")
-
----
-
 ### 📕 Some 3D Projects!
 #### These are made entirely by myself!
 <p align="center">
@@ -21,6 +10,8 @@ Click the image to see a video demo! And find the website itself here: https://g
   <img src="FinalRenders/Porsche1.jpg" width="335" >
   <img src="FinalRenders/RickAndMortyGarage.jpg" width="335" >
 </p>
+
+---
 
 
 [website]: https://codeSTACKr.com
