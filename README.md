@@ -13,10 +13,10 @@ Hi, I'm Stanley! Welcome to my GitHub profile. Below are some of the projects I'
 [Project Website](https://dopameter.ca/)
 
 
+[React Frontend Repo (with CI/CD)](https://github.com/stnlywng/Dopameter.Frontend)
+
+
 [Backend API Repo](https://github.com/stnlywng/Dopameter.API)
-
-
-[React Frontend Repo](https://github.com/stnlywng/Dopameter.Frontend)
 
 
 [Database Migrations Repo](https://github.com/stnlywng/Dopameter.DB.Migrations.Flyway)
