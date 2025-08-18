@@ -10,7 +10,7 @@ Hi, I'm Stanley! Welcome to my GitHub profile. Below are some of the projects I'
 
 **Description:** A web app designed to assist individuals recovering from addiction by helping them track their dopamine intake and promoting a healthy pain-pleasure balance. Inspired by the neuroscience research of Dr. Anna Lembke.
 
-[Project Website](https://dopameter.ca/)
+[Project Website](https://wwww.dopameter.ca/)
 
 
 [React Frontend Repo (with CI/CD)](https://github.com/stnlywng/Dopameter.Frontend)
